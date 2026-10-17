@@ -15,3 +15,5 @@ O advogado fornece uma ideia, uma narrativa e o objetivo do texto. A IA organiza
 5. Registrar o teste em `docs/registro.md`.
 
 Todos os dados utilizados neste projeto são fictícios.
+
+##link do repositorio https://github.com/techinckel-star/projeto-02-coluna-juridica.git 
